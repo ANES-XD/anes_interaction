@@ -1,6 +1,12 @@
-<img width="982" height="486" alt="image" src="https://github.com/user-attachments/assets/c8a84801-68a9-4f76-890b-7d9dc266827d" />
 # anes_interaction
 a fivem stand alone simple interaction system
+
+preview : 
+
+<img width="982" height="486" alt="image" src="https://github.com/user-attachments/assets/c8a84801-68a9-4f76-890b-7d9dc266827d" />
+
+vedio : https://r2.fivemanage.com/V45yEeMAc4OMtms5av8mY/Desktop2025.08.27-14.03.43.03.DVR.mp4
+
 
 
 no support
